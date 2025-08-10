@@ -1,4 +1,4 @@
-package main.java.leetcode;
+package main.java.leetcode.easy;
 
 /**
  * LeetCode 2000: Reverse Prefix of Word
